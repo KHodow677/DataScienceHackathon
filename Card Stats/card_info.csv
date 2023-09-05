@@ -1,0 +1,110 @@
+name,cost,category,type,hitpoints,damage,dps,count,total_hitpoints,total_damage,total_dps
+Knight,3,Melee,Support,2339,267,222,1,2339,267,222
+Archers,3,Ranged,Support,403,142,157,2,806,284,314
+Goblins,2,Swarm,Support,267,159,144,4,1068,636,576
+Giant,5,Tank,Win Con,5423,337,224,1,5423,337,224
+P.E.K.K.A,7,Tank,Support,4982,1081,600,1,4982,1081,600
+Minions,3,Swarm,Support,305,155,155,3,915,465,465
+Balloon,5,Attacker,Win Con,2226,848,424,1,2226,848,424
+Witch,5,Ranged,Support,1110,178,161,1,1110,178,161
+Barbarians,5,Swarm,Support,888,254,195,5,4440,1270,975
+Golem,8,Tank,Win Con,6784,413,165,1,6784,413,165
+Skeletons,1,Swarm,Support,108,108,108,3,324,324,324
+Valkyrie,4,Melee,Support,2529,354,236,1,2529,354,236
+Skeleton Army,3,Swarm,Support,108,108,108,15,1620,1620,1620
+Bomber,2,Ranged,Support,440,294,163,1,440,294,163
+Musketeer,4,Ranged,Support,955,289,289,1,955,289,289
+Baby Dragon,4,Ranged,Support,1526,212,141,1,1526,212,141
+Prince,5,Melee,Support,2544,519,370,1,2544,519,370
+Wizard,5,Swarm,Support,955,373,266,1,955,373,266
+Mini P.E.K.K.A,4,Melee,Support,1804,955,596,1,1804,955,596
+Spear Goblins,2,Swarm,Support,176,108,63,3,528,324,189
+Giant Skeleton,6,Tank,Support,4536,354,252,1,4536,354,252
+Hog Rider,4,Attacker,Win Con,2248,421,263,1,2248,421,263
+Minion Horde,5,Swarm,Support,305,155,155,6,1830,930,930
+Ice Wizard,3,Ranged,Support,910,120,70,1,910,120,70
+Royal Giant,6,Tank,Win Con,4068,406,238,1,4068,406,238
+Guards,3,Swarm,Support,426,161,161,3,1278,483,483
+Princess,3,Ranged,Support,345,224,74,1,345,224,74
+Dark Prince,4,Melee,Support,1908,328,252,1,1908,328,252
+Three Musketeers,9,Ranged,Win Con,955,289,289,3,2865,867,867
+Lava Hound,7,Tank,Win Con,5040,72,55,1,5040,72,55
+Ice Spirit,1,Utility,Support,305,145,0,1,305,145,0
+Fire Spirit,1,Utility,Support,305,274,0,1,305,274,0
+Miner,3,Attacker,Win Con,1600,256,213,1,1600,256,213
+Sparky,6,Ranged,Support,1920,1760,440,1,1920,1760,440
+Bowler,5,Ranged,Support,2756,381,152,1,2756,381,152
+Lumberjack,4,Melee,Support,1696,320,400,1,1696,320,400
+Battle Ram,4,Attacker,Win Con,1208,379,0,1,1208,379,0
+Inferno Dragon,4,Ranged,Support,1712,160,440,1,1712,160,440
+Ice Golem,2,Melee,Support,1587,112,44,1,1587,112,44
+Mega Minion,3,Melee,Support,1109,413,258,1,1109,413,258
+Dart Goblin,3,Ranged,Support,345,174,248,1,345,174,248
+Goblin Gang,3,Swarm,Support,443,267,207,3,1329,801,621
+Electro Wizard,4,Ranged,Support,944,290,160,1,944,290,160
+Elite Barbarians,6,Melee,Support,1776,508,362,2,3552,1016,724
+Hunter,4,Ranged,Support,1110,1120,500,1,1110,1120,500
+Executioner,5,Ranged,Support,1696,448,186,1,1696,448,186
+Bandit,3,Melee,Support,1200,256,256,1,1200,256,256
+Royal Recruits,7,Swarm,Support,1023,176,135,6,6138,1056,810
+Night Witch,4,Melee,Support,1200,416,277,1,1200,416,277
+Bats,2,Swarm,Support,108,108,83,5,540,540,415
+Royal Ghost,3,Melee,Support,1600,345,191,1,1600,345,191
+Ram Rider,5,Attacker,Win Con,2337,489,319,1,2337,489,319
+Zappies,4,Ranged,Support,702,154,73,3,2106,462,219
+Rascals,5,Swarm,Support,1556.5,264,234.5,2,3113,528,469
+Cannon Cart,5,Ranged,Support,2269,281,296.5,1,2269,281,296.5
+Mega Knight,7,Tank,Support,5280,355,208,1,5280,355,208
+Skeleton Barrel,3,Swarm,Win Con,705,176,0,1,705,176,0
+Flying Machine,4,Ranged,Support,814,227,206,1,814,227,206
+Wall Breakers,2,Attacker,Win Con,438,519,0,2,876,1038,0
+Royal Hogs,5,Attacker,Win Con,1109,98,81,4,4436,392,324
+Goblin Giant,6,Tank,Win Con,4170,585,371,1,4170,585,371
+Fisherman,3,Melee,Support,1152,256,196,1,1152,256,196
+Magic Archer,4,Ranged,Support,704,177,160,1,704,177,160
+Electro Dragon,5,Ranged,Support,1259,762,360,1,1259,762,360
+Firecracker,3,Ranged,Support,403,420,140,1,403,420,140
+Mighty Miner,4,Melee,Support,3059,266,665,1,3059,266,665
+Elixir Golem,3,Tank,Win Con,2079,337,306,1,2079,337,306
+Battle Healer,4,Melee,Support,2276,196,130,1,2276,196,130
+Skeleton King,4,Melee,Support,3059,272,170,1,3059,272,170
+Archer Queen,5,Ranged,Support,1330,299,249,1,1330,299,249
+Golden Knight,4,Melee,Support,2394,212,235,1,2394,212,235
+Monk,5,Melee,Support,2660,186,232,1,2660,186,232
+Skeleton Dragons,4,Ranged,Support,705,213,112,2,1410,426,224
+Mother Witch,4,Ranged,Support,704,176,176,1,704,176,176
+Electro Spirit,1,Utility,Support,305,1188,0,1,305,1188,0
+Electro Giant,7,Tank,Win Con,5109,724,610,1,5109,724,610
+Phoenix,4,Melee,Support,1392,288,320,1,1392,288,320
+Cannon,3,Defense,Building,1091,281,312,1,1091,281,312
+Goblin Hut,5,Spawner,Building,1124,0,0,1,1124,0,0
+Mortar,4,Defense,Win Con,1813,352,70,1,1813,352,70
+Inferno Tower,5,Defense,Building,2318,210,525,1,2318,210,525
+Bomb Tower,4,Defense,Building,1798,295,184,1,1798,295,184
+Barbarian Hut,6,Spawner,Building,1545,0,0,1,1545,0,0
+Tesla,4,Defense,Building,1525,305,254,1,1525,305,254
+Elixir Collector,6,Spawner,Building,1419,0,0,1,1419,0,0
+X-Bow,6,Defense,Win Con,2120,55,183,1,2120,55,183
+Tombstone,3,Spawner,Building,702,0,0,1,702,0,0
+Furnace,4,Spawner,Building,1124,0,0,1,1124,0,0
+Goblin Cage,4,Spawner,Building,983,0,0,1,983,0,0
+Goblin Drill,4,Spawner,Win Con,1908,0,0,1,1908,0,0
+Fireball,4,Utility,Spell,0,913,0,1,0,913,0
+Arrows,3,Utility,Spell,0,486,0,1,0,486,0
+Rage,2,Utility,Spell,0,254,0,1,0,254,0
+Rocket,6,Utility,Spell,0,1967,0,1,0,1967,0
+Goblin Barrel,3,Utility,Win Con,0,0,0,1,0,0,0
+Freeze,4,Utility,Spell,0,152,0,1,0,152,0
+Mirror,0,Utility,Spell,0,0,0,1,0,0,0
+Lightning,6,Utility,Spell,0,1399,0,1,0,1399,0
+Zap,2,Utility,Spell,0,254,0,1,0,254,0
+Poison,4,Utility,Spell,0,960,120,1,0,960,120
+Graveyard,5,Attacker,Win Con,0,0,0,1,0,0,0
+The Log,2,Utility,Spell,0,384,0,1,0,384,0
+Tornado,3,Utility,Spell,0,224,112,1,0,224,112
+Clone,3,Utility,Spell,0,0,0,1,0,0,0
+Earthquake,4,Utility,Spell,0,327,109,1,0,327,109
+Barbarian Barrel,2,Utility,Spell,0,320,0,1,0,320,0
+Heal Spirit,1,Utility,Support,306,146,0,1,306,146,0
+Giant Snowball,2,Utility,Spell,0,254,0,1,0,254,0
+Royal Delivery,3,Utility,Spell,0,579,0,1,0,579,0
